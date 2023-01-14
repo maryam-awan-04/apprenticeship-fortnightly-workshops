@@ -1,4 +1,4 @@
-# apprenticeship-fortnightly-workshops
+# Apprenticeship Fortnightly Workshops
 
 ## Data Structures and Algorithms 
 1. Sorting Algorithms 
